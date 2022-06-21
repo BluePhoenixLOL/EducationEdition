@@ -1,0 +1,62 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-06-20 17:47:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-20 17:47:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-20 17:47:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-06-20 17:46:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-06-20 17:47:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-06-20 17:47:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-06-20 17:47:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-06-20 17:47:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:lukewarm_ocean": "2022-06-20 17:47:40 -0700",
+      "minecraft:river": "2022-06-20 17:47:37 -0700",
+      "minecraft:stony_shore": "2022-06-20 17:47:35 -0700",
+      "minecraft:ocean": "2022-06-20 17:48:24 -0700",
+      "minecraft:deep_lukewarm_ocean": "2022-06-20 17:51:03 -0700",
+      "minecraft:plains": "2022-06-20 17:43:42 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 3105
+}

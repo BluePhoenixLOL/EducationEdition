@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "edu:items/compounds/jar_black"
+    }
+}
