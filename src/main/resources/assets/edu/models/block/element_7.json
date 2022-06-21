@@ -1,0 +1,7 @@
+{
+    "parent": "edu:block/element_base",
+    "textures": {
+        "particle": "edu:blocks/element_007_n",
+        "all": "edu:blocks/element_007_n"
+    }
+}
